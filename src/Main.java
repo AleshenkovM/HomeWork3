@@ -4,36 +4,36 @@ public class Main {
     public static void main(String[] args) {
        // Задача номер 1
         System.out.println("задача номер 1");
-        byte aplle = 126;
+        byte apple = 126;
         short deposit = 32766;
         int salary = 2_147_483_646;
-        long namber = 9_223_32_036_854_775_806L;
+        long number = 9_223_32_036_854_775_806L;
         float pi = 3.14f;
         double strike = 0.1234654321;
-        System.out.println("Значение переменной aplle с типом byte равно " + aplle);
+        System.out.println("Значение переменной apple с типом byte равно " + apple);
         System.out.println("Значение переменной deposit с типом short равно " + deposit);
         System.out.println("Значение переменной salary с типом int равно " + salary);
-        System.out.println("Значение переменной namber с типом long равно " + namber);
+        System.out.println("Значение переменной namber с типом long равно " + number);
         System.out.println("Значение переменной pi с типом float равно " + pi);
         System.out.println("Значение переменной strike с типом double равно " + strike);
 
 
         // Задача номер 2
         System.out.println("задача номер 2");
-        float namberOne =27.12f;
-        long namberTwo = 987_678_965_549L;
-        float namberThree = 2.786f;
-        short namberFour = 569;
-        short namberFive = -159;
-        short namberSix = 27897;
-        byte namberSeven = 67;
-        System.out.println(namberOne);
-        System.out.println(namberTwo);
-        System.out.println(namberThree);
-        System.out.println(namberFour);
-        System.out.println(namberFive);
-        System.out.println(namberSix);
-        System.out.println(namberSeven);
+        float numberOne =27.12f;
+        long numberTwo = 987_678_965_549L;
+        float numberThree = 2.786f;
+        short numberFour = 569;
+        short numberFive = -159;
+        short numberSix = 27897;
+        byte numberSeven = 67;
+        System.out.println(numberOne);
+        System.out.println(numberTwo);
+        System.out.println(numberThree);
+        System.out.println(numberFour);
+        System.out.println(numberFive);
+        System.out.println(numberSix);
+        System.out.println(numberSeven);
 
 
         //задача номер 3
